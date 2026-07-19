@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 **xyansama-sudo/xyansama-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Currently building **Helix** — an evidence-informed companion app for the hard moments: a mood journal that remembers your light, and gentle, research-backed practices for when the dark closes in.
