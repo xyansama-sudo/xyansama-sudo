@@ -12,9 +12,5 @@ Currently building **Helix** — an evidence-informed companion app for the hard
 - For if joyful is the fountain that rises in the sun, its springs are in the wells of sorrow unfathomable at the foundations of the Earth
 
 **Education**
-- The University of Sydney
-Bachelor of Science
-2020-2024
-- The Australian National University
-Master of Anthropology and Planetary Futures
-2027-
+- The University of Sydney - Bachelor of Science (2020-2024)
+- The Australian National University - Master of Anthropology and Planetary Futures (2027-)
